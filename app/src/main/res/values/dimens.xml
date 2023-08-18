@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "top_bar_padding">12dp</dimen>
+
+    <dimen name = "home_screen_padding">16dp</dimen>
+
+    <dimen name = "card_padding">16dp</dimen>
+    <dimen name = "card_spaced_by">16dp</dimen>
+
+    <dimen name = "percent_of_charge_height">200dp</dimen>
+    <dimen name = "percent_of_charge_battery_tip_width">14dp</dimen>
+    <dimen name = "percent_of_charge_battery_tip_height">62dp</dimen>
+    <dimen name = "percent_of_charge_battery_tip_start_corner_radius">0dp</dimen>
+    <dimen name = "percent_of_charge_battery_tip_end_corner_radius">12dp</dimen>
+    <dimen name = "percent_of_charge_hours_remaining_width">145dp</dimen>
+    <dimen name = "percent_of_charge_lightning_bolt_width">53dp</dimen>
+    <dimen name = "percent_of_charge_lightning_bolt_height">74dp</dimen>
+    <dimen name = "percent_of_charge_lightning_bolt_padding">1dp</dimen>
+
+    <dimen name = "savings_intro_desc_spacing">12dp</dimen>
+    <dimen name = "savings_desc_spacing">3dp</dimen>
+</resources>

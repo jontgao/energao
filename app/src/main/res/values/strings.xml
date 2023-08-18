@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Energao</string>
+
+    <!--percent of charge-->
+    <string name="percent_of_charge_percent">%1$d%%</string>
+    <plurals name="percent_of_charge_hours_remaining">
+        <item quantity="one">That\'s %1$.1f hour of energy for your home.</item>
+        <item quantity="other">That\'s %1$.1f hours of energy for your home.</item>
+    </plurals>
+
+    <!--battery health-->
+    <string name="battery_health">Battery health</string>
+    <string name="battery_health_no_issues">No issues.</string>
+
+    <!--battery temp-->
+    <string name="degrees_celsius">°C</string>
+    <string name="battery_temperature">Battery temperature</string>
+
+    <!--battery voltage-->
+    <string name="volts">V</string>
+    <string name="battery_voltage">Battery voltage</string>
+
+    <!--savings-->
+    <string name="savings_intro_text">Since starting, you’ve saved</string>
+    <string name="savings_energy_desc">kWh of energy</string>
+    <string name="savings_bills_desc">in energy bills</string>
+    <string name="savings_co2_desc">tons of CO2 emissions</string>
+
+    <!--help-->
+    <string name="help">Have a question? See our support page here.</string>
+
+</resources>
